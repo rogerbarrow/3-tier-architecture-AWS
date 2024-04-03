@@ -16,8 +16,8 @@ git clone https://github.com/aws-samples/aws-three-tier-web-architecture-worksho
 #Select Ec2 as the trusted entity
 * ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/cc982460-aaed-4104-b011-d560785f93d7)
    When adding permissions, Include the following AWS Managed policies
-  amazonSSMManagedinstancecore
-  AmazonS3ReadOnlyAccess
+  * amazonSSMManagedinstancecore
+  * AmazonS3ReadOnlyAccess
 
 
 
