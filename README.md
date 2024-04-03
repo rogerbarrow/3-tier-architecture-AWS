@@ -34,6 +34,8 @@ git clone https://github.com/aws-samples/aws-three-tier-web-architecture-worksho
 * ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/99c1611e-0c67-4ba2-882f-603d6a6012a6)
 # Next We Create a Internet Gateway
  * ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/90de7f4f-6e9e-4997-9a1a-ef62941124a0)
+# Next We Create a Nateway
+ * ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/0776fabc-b3e7-489f-8ad9-ded86444665d)
 
 
 
