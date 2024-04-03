@@ -18,6 +18,14 @@ git clone https://github.com/aws-samples/aws-three-tier-web-architecture-worksho
    When adding permissions, Include the following AWS Managed policies
   * amazonSSMManagedinstancecore
   * AmazonS3ReadOnlyAccess
+# Network and Security
+* Create an isolated network with the folling components
+* VPC
+* Subnets
+* Route Tables
+* Internet Gateway
+* NAT Gateway
+* Security Group
 
 
 
