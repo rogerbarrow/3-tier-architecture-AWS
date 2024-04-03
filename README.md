@@ -31,6 +31,7 @@ git clone https://github.com/aws-samples/aws-three-tier-web-architecture-worksho
 * Create subnet (We will Create 6 Subnets in 2 Availability Zones)
 * ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/4eefaa5d-1a49-4ce2-9d68-6473784676cf)
 * ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/27b49be6-e070-4924-9c26-442a0243687e)
+* ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/99c1611e-0c67-4ba2-882f-603d6a6012a6)
 
 
 
