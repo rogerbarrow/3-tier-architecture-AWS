@@ -26,6 +26,8 @@ git clone https://github.com/aws-samples/aws-three-tier-web-architecture-worksho
 * Internet Gateway
 * NAT Gateway
 * Security Group
+# Create a VPC
+* ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/505bd9b8-82a3-4668-b42b-499aa8bd8d2b)
 
 
 
