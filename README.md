@@ -38,6 +38,7 @@ git clone https://github.com/aws-samples/aws-three-tier-web-architecture-worksho
  * ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/0776fabc-b3e7-489f-8ad9-ded86444665d)
 # Next We Create a Route table 
  * ![image](https://github.com/rogerbarrow/3-tier-architecture-AWS/assets/46138186/dc4c7ae8-1574-466d-9e84-4e4a6eae8f33)
+# Next We Create a Security Group 
 
 
 
